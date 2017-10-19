@@ -1,0 +1,21 @@
+{
+  "name": "googlesheetnode",
+  "version": "1.0.0",
+  "description": "Google Sheet with NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "Google",
+    "Sheets",
+    "V4"
+  ],
+  "author": "@burhanmubarok",
+  "license": "MIT",
+  "dependencies": {
+    "google-auth-library": "^0.11.0",
+    "googleapis": "^22.2.0"
+  }
+}
