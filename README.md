@@ -19,4 +19,5 @@ This project is experimental, just an expression of my idea to create any report
 
 ## Run
 
-***npm start***
+1. ***npm install***
+2. ***npm start***
