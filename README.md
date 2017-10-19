@@ -12,9 +12,9 @@ This project is experimental, just an expression of my idea to create any report
 
 ## Installation
 
-### 1. Create an Oauth client IDs with your google account
-### 2. Download your OAuth 2.0 client IDs and save it to project's root folder as JSON
-### 3. Run the app
+1. Create an Oauth client IDs with your google account
+2. Download your OAuth 2.0 client IDs and save it to project's root folder as JSON
+3. Run the app
 
 ## Run
 
