@@ -1,6 +1,6 @@
 {
   "name": "googlesheetnode",
-  "version": "1.0.0",
+  "version": "0.5.0",
   "description": "Google Sheet with NodeJS",
   "main": "index.js",
   "scripts": {
